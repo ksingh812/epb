@@ -1,0 +1,11 @@
+/*
+Theme Name: Javo Directory
+Theme URI: http://javothemes.com/directory
+Description: Child theme for the Javo directory
+Author: Javo Themes
+Author URI:     http://javothemes.com
+Template: javo-directory
+Version:  1.0
+*/
+@import url("../javo-directory/style.css");
+/* Add Custom Styles From Here */
