@@ -9,3 +9,8 @@ Version:  1.0
 */
 @import url("../javo-directory/style.css");
 /* Add Custom Styles From Here */
+
+.navbar-brand{
+	height:auto;
+	padding: 0;
+}

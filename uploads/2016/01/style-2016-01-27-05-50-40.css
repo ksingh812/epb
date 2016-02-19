@@ -1,0 +1,33 @@
+/* Themes settings css */
+
+	body{
+		font-size:13px;
+		line-height:20px;
+		font-family:Open Sans;
+	}
+.accent{ background-color: !important;}
+.accent:hover{ background-color: !important; }
+.javo_somw_panel, .javo_somw_list_inner, .javo_somw_panel form button{ background-color: !important; }
+.javo_somw_panel::-webkit-scrollbar-button:start:decrement, ::-webkit-scrollbar-button:end:increment, .javo_somw_panel::-webkit-scrollbar-track{ background: !important; }
+.javo_somw_panel .newrow button, .javo_somw_panel form select, .javo_somw_panel form .newrow input, .javo_somw_panel .newrow .javo_somw_onoff{ background-color: !important; }
+.javo_somw_panel .newrow button.active{ background-color: !important; border:1px  solid; }
+.gmap .javo_somw_opener_type1{ background: !important; }
+.javo_somw_panel form button, .javo_somw_panel form select, .javo_somw_panel form select, .javo_somw_panel form .newrow input, .gmap .javo_somw_opener_type1{ color: !important; }
+.javo_somw_panel form button.active,  .gmap .javo_somw_opener_type1{ color: !important; }
+.javo_somw_panel .newrow .title, .javo_somw_panel .newrow .javo_somw_list_title, .javo_somw_list a{ color: !important; }
+.javo_somw_panel .javo_somw_list_inner .meta-wrap .javo_somw_list{ color: !important; }
+.gmap, .gmap .map_area{height:px !important;}
+h1{font:18px/20px 'Open Sans';}
+h2{font:16px/20px 'Open Sans';}
+h3{font:14px/20px 'Open Sans';}
+h4{font:13px/20px 'Open Sans';}
+h5{font:13px/20px 'Open Sans';}
+h6{font:13px/20px 'Open Sans';}
+.navbar {background:;}
+.navbar {height: px;}
+.nav>li>a {font:px/px '';}
+.navbar-nav>li>a {line-height: px; color:;}
+.navbar-nav>.active>a, .navbar-nav>.active>a:hover, .navbar-nav>.active>a:focus {color:;background:;}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {color:;background:; border-bottom:4px  solid;}
+.dropdown-menu {background:;}
+.dropdown-menu > li > a{font:px/px ''; color:;}
